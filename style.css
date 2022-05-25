@@ -28,11 +28,24 @@ body{
   a{
     color:#F7D39F;
     text-align: center;
+    margin-left:25px;
   }
   a.here{
     color:black;
+    margin:0px;
   }
   footer{
     padding-top:10px;
     background-color: #A1630D;
+    height:125px;
+  }
+  .imgCenter{
+      display: block;
+      margin-left:auto;
+      margin-right:auto;
+      width:50%;
+  }
+  .firstBorder{
+    size:5px;
+    color:black;
   }
