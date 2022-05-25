@@ -1,0 +1,38 @@
+body{
+    background-color:#F7D39F;
+    margin-left:75px;
+    margin-right:75px;
+    margin-top:10px;
+    margin-bottom:10px;
+  }
+    header{
+      background-color: #A1630D;
+      padding-bootom:10px;
+  }
+  h1{
+      color:#F7D39F;
+   text-align: center;
+  }
+  h2{
+    color:#F7D39F;
+    text-align:center
+  }
+  h3{
+    text-align:center;
+  }
+  p{
+    color: black;
+    font-family:"Times New Roman", Times, serif;
+    font-size: 15px;
+  }
+  a{
+    color:#F7D39F;
+    text-align: center;
+  }
+  a.here{
+    color:black;
+  }
+  footer{
+    padding-top:10px;
+    background-color: #A1630D;
+  }
