@@ -1,51 +1,97 @@
 body{
-    background-color:#F7D39F;
-    margin-left:75px;
-    margin-right:75px;
-    margin-top:10px;
-    margin-bottom:10px;
-  }
-    header{
-      background-color: #A1630D;
-      padding-bootom:10px;
-  }
-  h1{
-      color:#F7D39F;
-   text-align: center;
-  }
-  h2{
-    color:#F7D39F;
-    text-align:center
-  }
-  h3{
-    text-align:center;
-  }
-  p{
-    color: black;
-    font-family:"Times New Roman", Times, serif;
-    font-size: 15px;
-  }
-  a{
-    color:#F7D39F;
-    text-align: center;
-    margin-left:25px;
-  }
-  a.here{
-    color:black;
-    margin:0px;
-  }
-  footer{
-    padding-top:10px;
+  background-color:#F7D39F;
+  margin-left:75px;
+  margin-right:75px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+  header{
     background-color: #A1630D;
-    height:125px;
-  }
-  .imgCenter{
-      display: block;
-      margin-left:auto;
-      margin-right:auto;
-      width:50%;
-  }
-  .firstBorder{
-    size:5px;
-    color:black;
-  }
+    padding-bootom:10px;
+}
+h1{
+    color:#F7D39F;
+ text-align: center;
+}
+h2{
+  color:#F7D39F;
+  text-align:center
+}
+h3{
+  text-align:center;
+}
+p{
+  color: black;
+  font-family:"Times New Roman", Times, serif;
+  font-size: 15px;
+}
+footer{
+  padding-top:10px;
+  background-color: #A1630D;
+  height:125px;
+}
+.imgCenter{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+.firstBorder{
+  size:5px;
+  color:black;
+}
+a{ 
+  color:#F7D39F;
+  text-align: center;
+  margin-left:25px;
+}
+a:link {
+  color: #F7D39F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a.here{
+  color:black;
+  margin:0px;
+}
+a.here:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.here:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.here:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.here:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
