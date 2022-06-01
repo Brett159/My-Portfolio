@@ -30,15 +30,16 @@ footer{
   background-color: #A1630D;
   height:125px;
 }
-.imgCenter{
-    display: block;
+img{
+    display:block;
     margin-left:auto;
     margin-right:auto;
-    width:50%;
+   
 }
-.firstBorder{
-  size:5px;
-  color:black;
+.firstHR{
+  border-width:5px;
+  border-color:black;
+  border-style:inset;
 }
 a{ 
   color:#F7D39F;
@@ -75,13 +76,13 @@ a.here{
 a.here:link {
   color: black;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a.here:visited {
   color: pink;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a.here:hover {
