@@ -76,13 +76,13 @@ a.here{
 a.here:link {
   color: black;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a.here:visited {
   color: pink;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a.here:hover {
