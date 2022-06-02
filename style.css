@@ -42,30 +42,30 @@ img{
   border-style:inset;
 }
 a{ 
-  color:#F7D39F;
+  color:black;
   text-align: center;
   margin-left:25px;
 }
 a:link {
-  color: #F7D39F;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: blue;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: green;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: green;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -80,19 +80,19 @@ a.here:link {
 }
 
 a.here:visited {
-  color: pink;
+  color: blue;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a.here:hover {
-  color: red;
+  color: green;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a.here:active {
-  color: yellow;
+  color: green;
   background-color: transparent;
   text-decoration: underline;
 }
